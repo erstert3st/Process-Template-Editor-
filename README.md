@@ -7,6 +7,7 @@ The problem could be partially addressed by allowing Visual Studio users to acce
 This repository is an attempt to soothe the pain by giving a shelter for the older versions of the active Visual Studio extensions. 
 
 Found on https://www.omnibuscode.com/board/board_dev_t_tfs/38612
+
 virustotal: https://www.virustotal.com/gui/file/3afc2d55197eac729387c5418425f5c203994231095dbc671252d94ac3f01321/detection
 
 Download, 
